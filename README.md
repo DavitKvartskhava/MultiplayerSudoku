@@ -8,7 +8,7 @@ We often spend time-solving one game of challenging sudoku together. To reduce t
 Unity collaborate was used for version control, so I'm uploading the executable version of the game here.
 
 Instructions for running the game on macOS
-1. Download MS_vFinal
+1. Download MS_vFinal and unzip it.
 2. Try opening the file. The following message will pop up: “MS_vFinal can’t be opened because it is from an unidentified developer.”
 3. Go to System Preferences > Security & Privacy > General
 4. At the bottom of the window, you will see a button “open anyway”. Click on that button and enjoy the game.
