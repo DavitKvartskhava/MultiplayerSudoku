@@ -5,6 +5,10 @@ Authors: Davit Kvartskhava, Yujeong Lee
 
 We often spend time-solving one game of challenging sudoku together. To reduce the hassle of sharing one puzzle book and to share our love of sudoku with many others, we created a multiplayer version of the sudoku game! Multiplayer Sudoku allows two players to connect over LAN to solve one game of sudoku together, while also competing to fill out more squares. The person who fills out more squares at the end of the game wins, but remember you must work together. If any one input is incorrect, neither player will get to solve the puzzle…
 
+## Host vs. Client
+<img src='https://recordit.co/ZAcoBZFhuu.gif' title='Multiplayer Host' width='438' alt='Video Walkthrough'/> <img src='https://recordit.co/UckIELGbKe.gif' title='Multiplayer Client' width='462' alt='Video Walkthrough' />
+
+
 Unity collaborate was used for version control, so I'm uploading the executable version of the game here.
 
 Instructions for running the game on macOS
